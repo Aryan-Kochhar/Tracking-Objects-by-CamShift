@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <pre>
 # tracking objects by camshift  
 
@@ -18,3 +19,8 @@ trying to integrate ai-based object detection to remove manual roi selection whi
 
 this is a basic object tracking system using camshift. it works well for simple tracking tasks but struggles with occlusions and drastic lighting changes. future updates may include ai-based tracking for better robustness.  
 </pre>
+=======
+# Tracking Objects by CamShift
+ Implements real-time object tracking using the CamShift algorithm in OpenCV. Allowing us to manually select a Region of Interest (ROI), after which the system dynamically tracks the object based on its HSV color histogram. The bounding box adapts to the object's movement and shape changes in the live video (camera)
+
+>>>>>>> Stashed changes
